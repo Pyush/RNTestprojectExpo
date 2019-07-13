@@ -12,7 +12,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "immutability-helper": "^3.0.0",
     "immutable": "^3.8.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "md5": "^2.2.1",
     "prop-types": "latest",
     "react-navigation": "^2.17.0",
